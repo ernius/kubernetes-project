@@ -11,18 +11,18 @@ Docker y Kubernetes son tecnologías basadas en esta idea. Ahora, esos lenguajes
 El proyecto en una frase es diseñar un lenguaje bien hecho, con un sistema de tipos y varias validaciones estáticas, que detecte ciertos errores en tiempo de compilación, y que luego compile a estos lenguajes primitivos y orientas a máquinas (yaml, dockerfile, etc). 
 
 Los entregables del proyecto de grado serán:
-    • Una especificación de un lenguaje de alto nivel con sistema de tipos para describir una infraestructura que transpile a los lenguajes especificados por las tecnologías Docker y Kubernetes.
-    • El código fuente de la herramienta de generación. 
-    • Un informe describiendo la arquitectura, interfaces y guía de instalación, configuración y utilización de la misma. También una comparación exhaustiva enumerando los errores que son detectados en tiempo de compilación y no en tiempo de ejecución, diferenciando cuáles ya eran detectados por las herramientas provistas por éstas tecnologías y cuáles no.
+- Una especificación de un lenguaje de alto nivel con sistema de tipos para describir una infraestructura que transpile a los lenguajes especificados por las tecnologías Docker y Kubernetes.
+ - El código fuente de la herramienta de generación. 
+ - Un informe describiendo la arquitectura, interfaces y guía de instalación, configuración y utilización de la misma. También una comparación exhaustiva enumerando los errores que son detectados en tiempo de compilación y no en tiempo de ejecución, diferenciando cuáles ya eran detectados por las herramientas provistas por éstas tecnologías y cuáles no.
 
 ## Requisitos
 
 Las siguientes habilidades son requeridas:
-    • Conocimientos básicos de teoría de lenguajes y compiladores.
-    • Habilidades de programación
+- Conocimientos básicos de teoría de lenguajes y compiladores.
+- Habilidades de programación
 Cursos o experiencia previa en las siguientes áreas temáticos NO es requerida, pero se considera un valor adicional:
-    • Lenguajes de Programación
-    • Teoría de la Computación
+- Lenguajes de Programación
+- Teoría de la Computación
     
 ## Oferta
 
