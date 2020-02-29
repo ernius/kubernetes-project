@@ -20,6 +20,7 @@ Los entregables del proyecto de grado serán:
 Las siguientes habilidades son requeridas:
 - Conocimientos básicos de teoría de lenguajes y compiladores.
 - Habilidades de programación
+
 Cursos o experiencia previa en las siguientes áreas temáticos NO es requerida, pero se considera un valor adicional:
 - Lenguajes de Programación
 - Teoría de la Computación
